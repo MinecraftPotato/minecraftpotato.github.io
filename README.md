@@ -1,7 +1,7 @@
 # minecraftpotato.github.io
 我的世界普忒头的个人网站
 
-[《重生之我是特异人士》宇宙](./teyirenshi1.md)
+[《重生之我是特异人士》宇宙](./TEYIRENSHI1.md)
 
 [宝宝巴士粉丝论坛](./babybusFansBBS/)
 
